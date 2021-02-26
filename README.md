@@ -25,4 +25,5 @@ If I had a few more hours, an additional feature I would like to implement is cr
 ![](https://i.imgur.com/sTANgFh.gif)
 
 ![](https://i.imgur.com/O44Sz6F.gif)
-![](https://i.imgur.com/nNICn8p.gif)
+
+![](https://i.imgur.com/vUx3YFD.gif)
