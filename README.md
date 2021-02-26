@@ -1,4 +1,4 @@
-# CodePath-Prework-SITE-Program
+# CodePath-Prework-SITE-Program: Link to my Glitch Project https://glitch.com/edit/#!/light-and-memory-sound-game-ali-shaikh
 
 SITE Pre-Work Submission Name: Ali Shaikh
 
@@ -22,4 +22,7 @@ After completing my submission, I saw that we were able to build and compile thi
 
 If I had a few more hours, an additional feature I would like to implement is creating multiple levels based on difficulty. More specifically, I would create an easy, medium, and hard level. As the levels increase in difficulty, the speed that the pattern is played would increase and the length of the pattern would also increase. This would give the opportunity to users to be able to choose how much they would like to challenge themselves. Another feature I would like to implement is to make a more friendly user interface. I would create a separate page for the landing screen when you enter the game, a separate page for the game itself, and a separate page for the exit screen. The beginning screen would include the instructions and a play button. The game screen would include the tiles and a stop button to take you back to the beginning screen. The exit screen would be dependent on if the user wins or loses the game. If the users win the game, they would be redirected to a page with confetti that states “Congrats. You won!” and there would be a button to play again. If the user loses, they would be redirected to a page that states, “You lost. Try again!” and there would be a try again button that would redirect the user to the game page.
 
-https://i.imgur.com/yy7dDkf.gif
+![](https://i.imgur.com/sTANgFh.gif)
+
+![](https://i.imgur.com/O44Sz6F.gif)
+![](https://i.imgur.com/nNICn8p.gif)
